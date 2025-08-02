@@ -1,7 +1,7 @@
 # CRS
 The Arduino-based Circadian Rave System contains instrcutions to build hardware components and all software required to run a CRS system.
 
-<img src="https://raw.githubusercontent.com/Trincatalyst/CRS/CRS_logo.png" width="300">
+<img src="CRS_logo.png" width="300">
 
 ![Alt Text](CRS_logo.png)
 
