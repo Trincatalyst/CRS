@@ -71,11 +71,11 @@ Here is another example of a profile where the ramping function has been changed
 
 __Saving and loading light profiles__
 -	__Saving profiles__
--	
+  
 Once a desired profile has been made we recommend saving it using the Save Profile button. The profile is saved to a text file that can be read by the software to program concurrently running LED profiles or future experiments.
  
 -	__Loading Profiles__
--	
+  
  For testing, we recommend running the tester profile for each LED strip simultaneously. Go to the LED tabs, click on the Load profile and click on the CRS_test_profile.txt. Click Program to upload the profile into the CRS and the graph should update along with the profile statistics. Click start and the graph will live update with the progress of the run. Repeat this for all six LED profiles.
 
 __Disconnecting from CRS hardware__
